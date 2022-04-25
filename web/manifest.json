@@ -1,6 +1,6 @@
 {
-    "name": "jobsheet_7",
-    "short_name": "jobsheet_7",
+    "name": "http_request_api",
+    "short_name": "http_request_api",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

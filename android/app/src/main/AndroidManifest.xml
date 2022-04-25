@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jobsheet_7">
+    package="com.example.http_request_api">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="jobsheet_7"
+        android:label="http_request_api"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
