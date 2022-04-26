@@ -15,3 +15,4 @@ class Movie {
     posterPath = parsedJson['poster_path'];
   }
 }
+
